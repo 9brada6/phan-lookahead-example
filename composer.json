@@ -1,0 +1,6 @@
+{
+    "name": "test/phan-regex-lookahead",
+    "require-dev": {
+        "phan/phan": "^3"
+    }
+}
